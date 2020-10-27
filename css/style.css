@@ -1,0 +1,53 @@
+*{
+  background-color: lightgray;
+}
+
+*{
+    font-family: sans-serif;
+}
+
+#sIP {
+
+  color: purple;
+
+  font-weight: 600;
+
+}
+
+#rul {
+
+  color: purple;
+
+  font-weight: 600;
+
+}
+
+#Wrul {
+
+  color: purple;
+
+  font-weight: 600;
+
+}
+
+#com {
+
+  color: purple;
+
+  font-weight: 600;
+
+}
+
+.rull {
+
+  font-size: 1rem;
+
+  font: Times;
+
+}
+
+#meme {
+
+  font-weight: bolder;
+
+}
