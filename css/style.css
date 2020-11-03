@@ -1,41 +1,10 @@
+
 *{
-  background-color: lightgray;
+  background-color: white;
 }
 
 *{
     font-family: sans-serif;
-}
-
-#sIP {
-
-  color: purple;
-
-  font-weight: 600;
-
-}
-
-#rul {
-
-  color: purple;
-
-  font-weight: 600;
-
-}
-
-#Wrul {
-
-  color: purple;
-
-  font-weight: 600;
-
-}
-
-#com {
-
-  color: purple;
-
-  font-weight: 600;
-
 }
 
 .rull {
@@ -49,5 +18,17 @@
 #meme {
 
   font-weight: bolder;
+
+}
+
+#center {
+
+  text-align: center;
+
+}
+
+.Dcenter {
+
+  text-align: center;
 
 }
